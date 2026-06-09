@@ -1,4 +1,4 @@
-# Projet PNE — Synthèse rapide (lecteur non technique)
+# Projet PNE — Synthèse rapide
 
 ## Ce que fait le projet
 
